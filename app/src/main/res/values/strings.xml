@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RobotinumDemo</string>
+    <string name="welcome">welcome</string>
+    <string name="hello_s">hello %s</string>
+</resources>
